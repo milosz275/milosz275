@@ -2,4 +2,7 @@
 
 ` C++, Networks, Linux `
 
-I'm computer science student eager to learn whatever comes in my taking off IT career. Things I'm passionate about make me try my hardest to deepen my understanding in a given subject.
+- I'm computer science student eager to learn whatever comes in my taking off IT career. Things I'm passionate about make me try my hardest to deepen my understanding in a given subject.
+- Every coding project I work on has to meet software engineering standards, follow design patterns and be well made from the ground up. I'm familiar with STL library and studying Qt at this moment.
+- Networks is something that keeps me going. I've created some simple socket apps making research on my own. I'm well up on used technologies and into basic cryptography systems like RSA.
+- On the daily basis I'm a combo Windows/Linux user trying to optimise my time best possible way. Let's take a look at some code:)

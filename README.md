@@ -10,4 +10,4 @@
 ## My projects:
 ### [Simple Qt Messenger](https://github.com/mldxo/Simple-Qt-and-Winsock-Messenger#readme)
 It lets the server and the client connect and message each other.
-[:)](src/messenger.png)
+![:)](src/messenger.png)

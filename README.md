@@ -11,3 +11,7 @@
 ### [Simple Qt Messenger](https://github.com/mldxo/Simple-Qt-and-Winsock-Messenger#readme)
 It lets the server and the client connect and message each other.
 ![:)](src/messenger.png)
+
+### [Battleship console game](https://github.com/mldxo/Battleship-console-game#readme)
+Battleship game, you can play either with your friend or versus Ai.
+![:)](src/battleship.png)

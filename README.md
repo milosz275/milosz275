@@ -8,10 +8,18 @@
 - On the daily basis I'm a combo Windows/Linux user trying to optimise my time best possible way. Let's take a look at some code:)
 
 ## My projects:
-### [Simple Qt Messenger](https://github.com/mldxo/Simple-Qt-and-Winsock-Messenger#readme)
-It lets the server and the client connect and message each other.
+### [Winsock Qt Messenger](https://github.com/mldxo/Simple-Qt-and-Winsock-Messenger#readme)
+It lets the server and the client connect and message each other. It works in local networks as well as in the Internet, if you have your port forwarding set.
 ![:)](src/messenger.png)
 
 ### [Battleship console game](https://github.com/mldxo/Battleship-console-game#readme)
-Battleship game, you can play either with your friend or versus Ai.
+Battleship game, you can play either with your friend or versus Ai setting ship manually or automatically
 ![:)](src/battleship.png)
+
+### [RSA generator (simplified)](https://github.com/mldxo/Simple-RSA-keyGen#readme)
+Program generating private RSA key. It will support big nums in the near future
+![:)](src/rsa.png)
+
+### [International draughts SFML game]([https://github.com/mldxo/Simple-RSA-keyGen#readme](https://github.com/mldxo/checkers-console-game#readme))
+This project is being developed at the moment. Repo is private, but here is a spoiler:
+![:)](src/checkers.png)

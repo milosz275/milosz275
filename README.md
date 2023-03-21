@@ -9,7 +9,7 @@
 
 ## My projects:
 ### [Winsock Qt Messenger](https://github.com/mldxo/Simple-Qt-and-Winsock-Messenger#readme)
-It lets the server and the client connect and message each other. It works in local networks as well as in the Internet, if you have your port forwarding set.
+It lets the server and the client connect and message each other. It works in local networks as well as in the Internet, if you have your port forwarding set. Communicator user Windows' username for nickname
 ![:)](src/messenger.png)
 
 ### [Battleship console game](https://github.com/mldxo/Battleship-console-game#readme)

@@ -20,6 +20,12 @@ Battleship game, you can play either with your friend or versus Ai setting ship 
 Program generating private RSA key. It will support big nums in the near future
 ![:)](src/rsa.png)
 
-### [International draughts SFML game]([https://github.com/mldxo/Simple-RSA-keyGen#readme](https://github.com/mldxo/checkers-console-game#readme))
+### [Debian/Linux Teamspeak Autorun Service](https://github.com/mldxo/Teamspeak-Service#readme)
+Simple but robust service allowing to run Teamspeak server as soon as you boot your Linux server.
+![:)](src/linux.png)
+
+### [International draughts SFML game](https://github.com/mldxo/checkers-console-game#readme)
 This project is being developed at the moment. Repo is private, but here is a spoiler:
 ![:)](src/checkers.png)
+
+

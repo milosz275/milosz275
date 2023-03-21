@@ -8,5 +8,6 @@
 - On the daily basis I'm a combo Windows/Linux user trying to optimise my time best possible way. Let's take a look at some code:)
 
 ## My projects:
-### Simple Qt Messenger
-[cos]: Simple-Qt-and-Winsock-Messenger#readme
+### [Simple Qt Messenger](https://github.com/mldxo/Simple-Qt-and-Winsock-Messenger#readme)
+It lets the server and the client connect and message each other.
+[:)](src/messenger.png)

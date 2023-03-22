@@ -1,6 +1,6 @@
 # Miłosz Maculewicz
 
-` C++, Networks, Linux `
+` C/C++, Networks, Linux `
 
 - I'm computer science student eager to learn everything that comes in my taking off IT career. Things I'm passionate about make me try my hardest to deepen my understanding in a given subject.
 - Every coding project has to meet software engineering standards, follow design patterns and be well made from the ground up. I'm familiar with object oriented programming as well as advanced programming techniques, STL library and I'm studying Qt at this moment.
@@ -9,7 +9,7 @@
 
 ## My projects:
 ### [Winsock Qt Messenger](https://github.com/mldxo/Simple-Qt-and-Winsock-Messenger#readme)
-It lets the server and the client connect and message each other. It works in local networks as well as in the Internet, if you have your port forwarding set.
+It lets the server and the client connect and message each other. It works in local networks as well as in the Internet, if you have your port forwarding set. Client can connect through domain name. Communicator uses Windows' username for nickname
 ![:)](src/messenger.png)
 
 ### [Battleship console game](https://github.com/mldxo/Battleship-console-game#readme)

@@ -1,6 +1,6 @@
 # Miłosz Maculewicz
 
-` C++, Networks, Linux `
+` C/C++, Networks, Linux `
 
 - I'm computer science student eager to learn everything that comes in my taking off IT career. Things I'm passionate about make me try my hardest to deepen my understanding in a given subject.
 - Every coding project has to meet software engineering standards, follow design patterns and be well made from the ground up. I'm familiar with object oriented programming as well as advanced programming techniques, STL library and I'm studying Qt at this moment.

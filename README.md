@@ -9,15 +9,15 @@
 
 ## My projects:
 ### [Winsock Qt Messenger](https://github.com/mldxo/Simple-Qt-and-Winsock-Messenger#readme)
-It lets the server and the client connect and message each other. It works in local networks as well as in the Internet, if you have your port forwarding set. Client can connect through domain name. Communicator uses Windows' username for nickname
+It lets the server and the client connect and message each other. It works in local networks as well as in the Internet, if you have your port forwarding set. Client can connect through domain name. Communicator uses Windows' username for nickname.
 ![:)](src/messenger.png)
 
 ### [Battleship console game](https://github.com/mldxo/Battleship-console-game#readme)
-Battleship game, you can play either with your friend or versus Ai setting ship manually or automatically
+Cross-platform Battleship game with a makefile, you can play either with your friend or versus Ai. Program supports setting ship both manually and automatically.
 ![:)](src/battleship.png)
 
 ### [RSA generator (simplified)](https://github.com/mldxo/Simple-RSA-keyGen#readme)
-Program generating private RSA key. It will support big nums in the near future
+Program generating private RSA key. It will support big nums in the near future.
 ![:)](src/rsa.png)
 
 ### [Debian/Linux Teamspeak Autorun Service](https://github.com/mldxo/Teamspeak-Service#readme)

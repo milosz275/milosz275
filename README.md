@@ -16,7 +16,7 @@ It lets the server and the client connect and message each other. It works in lo
 Cross-platform Battleship game with a makefile, you can play either with your friend or versus Ai. Program supports setting ship both manually and automatically.
 ![:)](src/battleship.png)
 
-### [International draughts SFML game](https://github.com/mldxo/checkers-console-game#readme)
+### [International draughts SFML game]([https://github.com/mldxo/checkers-gui#readme))
 Checkers GUI game. Currently under developement, but functional in player vs player contest.
 ![:)](src/checkers.png)
 

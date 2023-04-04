@@ -16,6 +16,10 @@ It lets the server and the client connect and message each other. It works in lo
 Cross-platform Battleship game with a makefile, you can play either with your friend or versus Ai. Program supports setting ship both manually and automatically.
 ![:)](src/battleship.png)
 
+### [International draughts SFML game](https://github.com/mldxo/checkers-console-game#readme)
+Checkers GUI game. Currently under developement, but functional in player vs player contest.
+![:)](src/checkers.png)
+
 ### [RSA generator (simplified)](https://github.com/mldxo/Simple-RSA-keyGen#readme)
 Program generating private RSA key. It will support big nums in the near future.
 ![:)](src/rsa.png)
@@ -23,9 +27,3 @@ Program generating private RSA key. It will support big nums in the near future.
 ### [Debian/Linux Teamspeak Autorun Service](https://github.com/mldxo/Teamspeak-Service#readme)
 Simple but robust service allowing to run Teamspeak server as soon as you boot your Linux server.
 ![:)](src/linux.png)
-
-### [International draughts SFML game](https://github.com/mldxo/checkers-console-game#readme)
-This project is being developed at the moment. Repo is private, but here is a spoiler:
-![:)](src/checkers.png)
-
-

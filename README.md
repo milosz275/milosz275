@@ -20,8 +20,8 @@ Cross-platform Battleship game with a makefile, you can play either with your fr
 Checkers GUI game. Currently under developement, but functional in player vs player contest.
 ![:)](src/checkers.png)
 
-### [RSA generator (simplified)](https://github.com/mldxo/Simple-RSA-keyGen#readme)
-Program generating private RSA key. It will support big nums in the near future.
+### [RSA Key generator + text encryption](https://github.com/mldxo/rsa-keygen#readme)
+Fully functional tool generating RSA key pair. It supports big numbers and text encryption.
 ![:)](src/rsa.png)
 
 ### [Debian/Linux Teamspeak Autorun Service](https://github.com/mldxo/Teamspeak-Service#readme)

@@ -12,17 +12,17 @@
 It lets the server and the client connect and message each other. It works in local networks as well as in the Internet, if you have your port forwarding set. Client can connect through domain name. Communicator uses Windows' username for nickname.
 ![:)](src/messenger.png)
 
+### [RSA Key generator + text encryption](https://github.com/mldxo/rsa-keygen#readme)
+Fully functional tool generating RSA key pair. It supports big numbers and text encryption.
+![:)](src/rsa.png)
+
 ### [Battleship console game](https://github.com/mldxo/Battleship-console-game#readme)
 Cross-platform Battleship game with a makefile, you can play either with your friend or versus Ai. Program supports setting ship both manually and automatically.
 ![:)](src/battleship.png)
 
 ### [International draughts SFML game](https://github.com/mldxo/checkers-gui#readme)
-Checkers GUI game. Currently under developement, but functional in player vs player contest.
+Checkers GUI game. Currently in early stage of completion, but functional in player vs player contest.
 ![:)](src/checkers.png)
-
-### [RSA Key generator + text encryption](https://github.com/mldxo/rsa-keygen#readme)
-Fully functional tool generating RSA key pair. It supports big numbers and text encryption.
-![:)](src/rsa.png)
 
 ### [Debian/Linux Teamspeak Autorun Service](https://github.com/mldxo/Teamspeak-Service#readme)
 Simple but robust service allowing to run Teamspeak server as soon as you boot your Linux server.

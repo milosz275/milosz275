@@ -8,9 +8,6 @@
 - On the daily basis I'm a combo Windows/Linux user trying to optimise my time best possible way and get rid of every compilation warning. Let's take a look at some code:)
 
 ## My projects:
-### [Winsock Qt Messenger](https://github.com/mldxo/qt-messenger#readme)
-It lets the server and the client connect and message each other. It works in local networks as well as in the Internet, if you have your port forwarding set. Client can connect through domain name. Communicator uses Windows' username for nickname.
-![:)](src/messenger.png)
 
 ### [RSA Key generator + text encryption](https://github.com/mldxo/rsa-keygen#readme)
 Fully functional tool generating RSA key pair. It supports big numbers and text encryption.
@@ -19,6 +16,10 @@ Fully functional tool generating RSA key pair. It supports big numbers and text 
 ### [Battleship console game](https://github.com/mldxo/Battleship-console-game#readme)
 Cross-platform Battleship game with a makefile, you can play either with your friend or versus Ai. Program supports setting ship both manually and automatically.
 ![:)](src/battleship.png)
+
+### [Winsock Qt Messenger](https://github.com/mldxo/qt-messenger#readme)
+Online messenger connecting server and client letting them exchange messages. Project will have a better version in the future.
+![:)](src/messenger.png)
 
 ### [International draughts SFML game](https://github.com/mldxo/checkers-gui#readme)
 Checkers GUI game. Currently in early stage of completion, but functional in player vs player contest.

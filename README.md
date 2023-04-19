@@ -7,7 +7,7 @@
 - Networks is something that keeps me going. I've created some simple socket apps making research on my own. I'm well up on used technologies and into basic cryptography systems like RSA.
 - On the daily basis I'm a combo Windows/Linux user trying to optimise my time best possible way and get rid of every compilation warning. Let's take a look at some code:)
 
-## My projects:
+## My projects
 
 ### [RSA Key generator + text encryption](https://github.com/mldxo/rsa-keygen#readme)
 Fully functional tool generating RSA key pair. It supports big numbers and text encryption.

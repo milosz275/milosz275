@@ -9,20 +9,28 @@
 
 ## My projects
 
-### [RSA Key generator + text encryption](https://github.com/mldxo/rsa-keygen#readme)
+### [RSA Key generator + text encryption](https://github.com/mldxo/rsa-keygen)
 Fully functional tool generating RSA key pair. It supports big numbers and text encryption.
-![:)](src/rsa.png)
+<div style="float: left; margin-bottom: 20px;">
+<img align="left" src="https://github.com/mldxo/mldxo/blob/main/src/rsa.png" width=100% style="margin-bottom: 100px;">
+</div>
 
-### [Battleship console game](https://github.com/mldxo/Battleship-console-game#readme)
+### [Battleship console game](https://github.com/mldxo/Battleship-console-game)
 Cross-platform Battleship game with a makefile, you can play either with your friend or versus Ai. Program supports setting ship both manually and automatically.
-![:)](src/battleship.png)
-
-### [Winsock Qt Messenger](https://github.com/mldxo/qt-messenger#readme)
-Online messenger connecting server and client letting them exchange messages. Project will have a better version in the future.
-![:)](src/messenger.png)
-
-### [International draughts SFML game](https://github.com/mldxo/checkers-gui#readme)
-Checkers GUI game. Currently in early stage of completion, but functional in player vs player contest.
-![:)](src/checkers.png)
+<div style="float: left; margin-bottom: 20px;">
+<img align="left" src="https://github.com/mldxo/mldxo/blob/main/src/battleship.png" width=100% style="margin-bottom: 100px;">
+</div>
 
 ---
+
+### [Winsock Qt Messenger](https://github.com/mldxo/qt-messenger)
+Online messenger connecting server and client letting them exchange messages. Project will have a better version in the future.
+<img align="left" src="https://github.com/mldxo/mldxo/blob/main/src/messenger.png" width=100%>
+---
+
+### [International draughts SFML game](https://github.com/mldxo/checkers-gui)
+Checkers GUI game. Currently in early stage of completion, but functional in player vs player contest.
+<img align="left" src="https://github.com/mldxo/mldxo/blob/main/src/checkers.png" width=100%>
+---
+
+

@@ -25,7 +25,3 @@ Online messenger connecting server and client letting them exchange messages. Pr
 Checkers GUI game. Currently in early stage of completion, but functional in player vs player contest.
 ![:)](src/checkers.png)
 
-### [Debian/Linux Teamspeak Autorun Service](https://github.com/mldxo/Teamspeak-Service#readme)
-Simple but robust service allowing to run Teamspeak server as soon as you boot your Linux server.
-![:)](src/linux.png)
-

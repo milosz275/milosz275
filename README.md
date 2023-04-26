@@ -25,3 +25,4 @@ Online messenger connecting server and client letting them exchange messages. Pr
 Checkers GUI game. Currently in early stage of completion, but functional in player vs player contest.
 ![:)](src/checkers.png)
 
+---

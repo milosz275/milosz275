@@ -12,6 +12,11 @@ Fully functional tool generating RSA key pair. It supports big numbers and text 
 
 ![](src/rsa.png)
 
+## [International draughts SFML game](https://github.com/mldxo/checkers-gui)
+Checkers GUI game. Currently in early stage of completion, but functional in player vs player contest.
+
+![](src/checkers.png)
+
 ## [Battleship console game](https://github.com/mldxo/Battleship-console-game)
 Cross-platform Battleship game with a makefile, you can play either with your friend or versus Ai. Program supports setting ship both manually and automatically.
 
@@ -22,9 +27,6 @@ Online messenger connecting server and client letting them exchange messages. Pr
 
 ![](src/messenger.png)
 
-## [International draughts SFML game](https://github.com/mldxo/checkers-gui)
-Checkers GUI game. Currently in early stage of completion, but functional in player vs player contest.
 
-![](src/checkers.png)
 
 

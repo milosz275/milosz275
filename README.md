@@ -1,32 +1,38 @@
 # Miłosz Maculewicz
+` Software Developer, networks & systems `
 
-` C/C++, Networks, Linux `
+Welcome to my GitHub profile! I'm Miłosz Maculewicz, a third-year computer science student with a passion for software development, network architecture and problem solving. Below you'll find a glimpse into some of the projects I've been working on.
 
-- I'm computer science student eager to learn everything that comes in my taking off IT career. Things I'm passionate about make me try my hardest to deepen my understanding in a given subject.
-- Every coding project has to meet software engineering standards, follow design patterns and be well made from the ground up. I'm familiar with object oriented programming as well as advanced programming techniques, STL library and I'm studying Qt at this moment.
-- Networks is something that keeps me going. I've created some simple socket apps making research on my own. I'm well up on used technologies and into basic cryptography systems like RSA.
-- On the daily basis I'm a combo Windows/Linux user trying to optimise my time best possible way and get rid of every compilation warning. Let's take a look at some code:)
+## Projects
+- UAV Collision Avoidance (Python, PyQt6)
+A Python package utilizing PySide6 for GUI, aimed at detecting and avoiding collisions for UAVs. I've implemented algorithm and conducted rigorous testing to validate its efficiency and accuracy.
 
-## [RSA Key generator + text encryption](https://github.com/mldxo/rsa-keygen)
-Fully functional tool generating RSA key pair. It supports big numbers and text encryption.
+- Checkers Game (C++ with SFML)
+An interactive Checkers game featuring both player-vs-player and player-vs-bot modes, built using SFML for graphical interface in C++.
 
-![](src/rsa.png)
+- Battleship Game (C++)
+Classic Battleship game recreated in C++, offering both player and bot modes for an engaging gaming experience.
 
-## [International draughts SFML game](https://github.com/mldxo/checkers-gui)
-Checkers GUI game. Currently in early stage of completion, but functional in player vs player contest.
+- Social Networking Platform (React, Django)
+I've developed a full-stack social networking platform where users can create posts, engage with others through likes and comments, and foster connections through sharing and following functionalities. Implemented using React for frontend and Django for backend.
 
-![](src/checkers.png)
+- RSA Keygen with Encryption/Decryption (C++)
+Implemented RSA key generation along with text encryption and decryption functionalities using libgmp in C++.
 
-## [Battleship console game](https://github.com/mldxo/Battleship-console-game)
-Cross-platform Battleship game with a makefile, you can play either with your friend or versus Ai. Program supports setting ship both manually and automatically.
+- Simple Messenger (C++ with Qt6)
+A lightweight messaging application built using Qt6 and Winsockets for online communication.
 
-![](src/battleship.png)
+- Python Package Template
+A template for Python package development, facilitating easy publishing on PyPI along with standard licensing and more.
 
-## [Winsock Qt Messenger](https://github.com/mldxo/qt-messenger)
-Online messenger connecting server and client letting them exchange messages. Project will have a better version in the future.
+- Dining Philosophers Problem Simulator
+A simulation showcasing the Dining Philosophers Problem, focusing on parameter optimization for efficient resource management.
 
-![](src/messenger.png)
+## Portfolio:
+Check out my portfolio https://mldxo.github.io, created using React, Vite, and TailwindCSS for a sleek and responsive design.
 
+## Networks
+Aside programming, I have a keen interest and expertise in networking, Linux environments, and server configuration. I enjoy crafting network architectures and configuring servers to optimize performance and security.
 
-
-
+## Collaborate
+Feel free to explore these projects further, and don't hesitate to reach out if you have any questions or collaboration ideas!

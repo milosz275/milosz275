@@ -14,7 +14,7 @@ An interactive Checkers game featuring both player-vs-player and player-vs-bot m
 Classic Battleship game recreated in C++, offering both player and bot modes for an engaging gaming experience.
 
 ### Social Networking Platform (React, Django)
-I've developed a full-stack social networking platform where users can create posts, engage with others through likes and comments, and foster connections through sharing and following functionalities. Implemented using React for frontend and Django for backend.
+I have helped developing a full-stack social networking platform where users can create posts, engage with others through likes and comments, and foster connections through sharing and following functionalities. Implemented using React for frontend and Django for backend.
 
 ### RSA Keygen with Encryption/Decryption (C++)
 Implemented RSA key generation along with text encryption and decryption functionalities using libgmp in C++.

@@ -1,7 +1,7 @@
 # 🚀 Miłosz Maculewicz 
 ` Software Developer, System Admin `
 
-Hello, nice to see you here! I'm Miłosz Maculewicz, third year Computer Science Student from Warsaw making my way through tech adventure 🖥️
+Hello, nice to see you here! I'm Miłosz Maculewicz, third year Computer Science student from Warsaw making my way through tech adventure 🖥️
 
 ### 🧰 Technologies
 

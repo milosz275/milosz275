@@ -5,6 +5,6 @@ Hello, nice to see you here! I'm Miłosz Maculewicz, third year Computer Science
 
 ### 🧰 Technologies
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,python,qt,mysql,postgres,docker,git,windows,debian,cloudflare,react,tailwind" />
+<p align="left">
+    <img width="30px" src="https://skillicons.dev/icons?i=cpp,python,qt,mysql,postgres,docker,git,windows,debian,cloudflare,react,tailwind" />
 </p>

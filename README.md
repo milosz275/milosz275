@@ -5,4 +5,4 @@ Hello, nice to see you here! I'm Miłosz Maculewicz, third year Computer Science
 
 ### 🧰 Languages and Tools
 
-[![](https://skillicons.dev/icons?i=cpp,python,git,windows,linux,bash,html,css,tailwind,react)]()
+[![](https://skillicons.dev/icons?i=cpp,python,qt,mysql,postgres,git,windows,linux,bash,html,css,react,tailwind)]()

@@ -19,3 +19,6 @@ Hello, nice to see you here! I'm Miłosz Maculewicz, third year Computer Science
     <img width="30px" alt="React" style="padding-right:10px;" src="https://skillicons.dev/icons?i=react" />
     <img width="30px" alt="TailwindCSS" style="padding-right:10px;" src="https://skillicons.dev/icons?i=tailwind" />
 </p>
+
+### 📁 Projects
+Please check out my portfolio here: https://mldxo.github.io/

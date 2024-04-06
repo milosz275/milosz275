@@ -13,7 +13,9 @@ Hello, nice to see you here! I'm Miłosz Maculewicz, third year Computer Science
     <img width="30px" alt="PostgreSQL" style="padding-right:10px;" src="https://skillicons.dev/icons?i=postgres" />
     <img width="30px" alt="Docker" style="padding-right:10px;" src="https://skillicons.dev/icons?i=docker" />
     <img width="30px" alt="Git" style="padding-right:10px;" src="https://skillicons.dev/icons?i=git" />
-    <img width="30px" alt="Jira" style="padding-right:10px;background-color:gray;border-radius:15px;" src="https://static-00.iconduck.com/assets.00/jira-icon-512x512-kkop6eik.png" />
+    <div style="width:30px;padding-right:10px;background-color:gray;border-radius:15px;">
+        <img src="https://static-00.iconduck.com/assets.00/jira-icon-512x512-kkop6eik.png" />
+    </div>
     <img width="30px" alt="Windows" style="padding-right:10px;" src="https://skillicons.dev/icons?i=windows" />
     <img width="30px" alt="Debian" style="padding-right:10px;" src="https://skillicons.dev/icons?i=debian" />
     <img width="30px" alt="Cloudflare" style="padding-right:10px;" src="https://skillicons.dev/icons?i=cloudflare" />

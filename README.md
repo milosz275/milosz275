@@ -24,4 +24,7 @@ Hello, nice to see you here! I'm Miłosz Maculewicz, third year Computer Science
 </p>
 
 ### 📁 Projects
-Please check out my portfolio here: https://mldxo.github.io/
+Please check out my portfolio [https://mldxo.github.io/](https://mldxo.github.io/) to see my projects!
+
+### 💰 Funding
+Support me on [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mldxo){:target="_blank"}!

@@ -1,5 +1,5 @@
 # 🚀 Miłosz Maculewicz 
-` Software Developer, System Admin `
+`Software Developer` `System Admin`
 
 Hello, nice to see you here! I'm Miłosz Maculewicz, third year Computer Science student from Warsaw making my way through tech adventure 🖥️
 
@@ -27,4 +27,4 @@ Hello, nice to see you here! I'm Miłosz Maculewicz, third year Computer Science
 Please check out my portfolio [https://mldxo.github.io/](https://mldxo.github.io/) to see my projects!
 
 ### 💰 Funding
-Support me on [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mldxo){:target="_blank"}!
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mldxo)

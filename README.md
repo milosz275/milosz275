@@ -1,4 +1,5 @@
 # 🚀 Miłosz Maculewicz 
+
 `Software Developer` `System Admin`
 
 Hello, nice to see you here! I'm Miłosz Maculewicz, third year Computer Science student from Warsaw making my way through tech adventure 🖥️
@@ -23,12 +24,16 @@ Hello, nice to see you here! I'm Miłosz Maculewicz, third year Computer Science
     <img width="30px" alt="TailwindCSS" style="padding-right:10px;" src="https://skillicons.dev/icons?i=tailwind" />
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mldxo&show_icons=true&theme=transparent)
-
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mldxo&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 📁 Projects
+
 Please check out my portfolio [https://mldxo.github.io/](https://mldxo.github.io/) to see my projects!
 
 ### 💰 Funding
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mldxo)
+
+### :octocat: Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mldxo&show_icons=true&theme=transparent)

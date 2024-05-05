@@ -32,7 +32,9 @@ Please check out my portfolio [https://mldxo.github.io/](https://mldxo.github.io
 
 ### 💰 Funding
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mldxo)
+![Sponsors](https://img.shields.io/github/sponsors/mldxo)
+[![Github Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/mldxo)
+[![Buy me a coffee](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=buymeacoffee)](https://www.buymeacoffee.com/mldxo)
 
 ### :octocat: Stats
 

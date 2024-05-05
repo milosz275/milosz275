@@ -23,6 +23,8 @@ Hello, nice to see you here! I'm Miłosz Maculewicz, third year Computer Science
     <img width="30px" alt="TailwindCSS" style="padding-right:10px;" src="https://skillicons.dev/icons?i=tailwind" />
 </p>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mldxo&show_icons=true&theme=transparent)
+
 ### 📁 Projects
 Please check out my portfolio [https://mldxo.github.io/](https://mldxo.github.io/) to see my projects!
 

@@ -39,3 +39,5 @@ Please check out my portfolio [https://mldxo.github.io/](https://mldxo.github.io
 ### :octocat: Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mldxo&show_icons=true&theme=transparent)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mldxo.visitor-badge)

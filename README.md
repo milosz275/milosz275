@@ -7,22 +7,29 @@ Hello, nice to see you here! I'm Miłosz Maculewicz, third year Computer Science
 ### 🧰 Technologies
 
 <p align="left">
+    <img width="30px" alt="C" style="padding-right:10px;" src="https://skillicons.dev/icons?i=c" />
     <img width="30px" alt="C++" style="padding-right:10px;" src="https://skillicons.dev/icons?i=cpp" />
     <img width="30px" alt="Python" style="padding-right:10px;" src="https://skillicons.dev/icons?i=python" />
     <img width="30px" alt="Qt" style="padding-right:10px;" src="https://skillicons.dev/icons?i=qt" />
     <img width="30px" alt="MySQL" style="padding-right:10px;" src="https://skillicons.dev/icons?i=mysql" />
     <img width="30px" alt="PostgreSQL" style="padding-right:10px;" src="https://skillicons.dev/icons?i=postgres" />
-    <img width="30px" alt="Docker" style="padding-right:10px;" src="https://skillicons.dev/icons?i=docker" />
+    <img width="30px" alt="R" style="padding-right:10px;" src="https://skillicons.dev/icons?i=r" />
+</p>
+<p align="left">
+    <img width="30px" alt="Git" style="padding-right:10px;" src="https://skillicons.dev/icons?i=git" />
     <img width="30px" alt="Github" style="padding-right:10px;" src="https://skillicons.dev/icons?i=github" />
     <img width="30px" alt="Github Actions" style="padding-right:10px;" src="https://skillicons.dev/icons?i=githubactions" />
-    <img width="30px" alt="Git" style="padding-right:10px;" src="https://skillicons.dev/icons?i=git" />
-    <img width="30px" alt="Jira" src="https://static-00.iconduck.com/assets.00/jira-icon-512x512-kkop6eik.png" />
-    <img width="30px" alt="Confluence" src="https://pbs.twimg.com/profile_images/1022908662392619008/5_z16TbH_400x400.jpg" />
-    <img width="30px" alt="Windows" style="padding-right:10px;" src="https://skillicons.dev/icons?i=visualstudio" />
-    <img width="30px" alt="Windows" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vscode" />
+    <img width="30px" alt="Latex" style="padding-right:10px;" src="https://skillicons.dev/icons?i=latex" />
+    <img width="30px" alt="Markdown" style="padding-right:10px;" src="https://skillicons.dev/icons?i=md" />
+    <img width="30px" alt="Visual Studio" style="padding-right:10px;" src="https://skillicons.dev/icons?i=visualstudio" />
+    <img width="30px" alt="VS Code" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vscode" />
+</p>
+<p align="left">
     <img width="30px" alt="Windows" style="padding-right:10px;" src="https://skillicons.dev/icons?i=windows" />
     <img width="30px" alt="Debian" style="padding-right:10px;" src="https://skillicons.dev/icons?i=debian" />
     <img width="30px" alt="Cloudflare" style="padding-right:10px;" src="https://skillicons.dev/icons?i=cloudflare" />
+    <img width="30px" alt="Nginx" style="padding-right:10px;" src="https://skillicons.dev/icons?i=nginx" />
+    <img width="30px" alt="Docker" style="padding-right:10px;" src="https://skillicons.dev/icons?i=docker" />
     <img width="30px" alt="React" style="padding-right:10px;" src="https://skillicons.dev/icons?i=react" />
     <img width="30px" alt="TailwindCSS" style="padding-right:10px;" src="https://skillicons.dev/icons?i=tailwind" />
 </p>

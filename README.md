@@ -38,7 +38,7 @@ Hello, nice to see you here! I'm Miłosz Maculewicz, third year Computer Science
 
 ### 📁 Projects
 
-Project I'm currently working on is [UAV Collsion Avoidance](https://github.com/mldxo/uav-collision-avoidance), UAV flight simulator implementation with collision detection and avoidance based on geometric approach.
+Project I'm currently working on is [UAV Collision Avoidance](https://github.com/mldxo/uav-collision-avoidance), UAV flight simulator implementation with collision detection and avoidance based on geometric approach.
 
 Please check out my portfolio [https://mldxo.github.io/](https://mldxo.github.io/) to see the rest of my projects!
 

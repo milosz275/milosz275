@@ -34,7 +34,7 @@ Hello, nice to see you here! I'm Miłosz Maculewicz, third year Computer Science
     <img width="30px" alt="TailwindCSS" style="padding-right:10px;" src="https://skillicons.dev/icons?i=tailwind" />
 </p>
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mldxo&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mldxo&langs_count=12&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 📁 Projects
 

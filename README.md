@@ -42,12 +42,6 @@ Project I'm currently working on is [UAV Collision Avoidance](https://github.com
 
 Please check out my portfolio [https://mldxo.github.io/](https://mldxo.github.io/) to see the rest of my projects!
 
-### 💰 Funding
-
-![Sponsors](https://img.shields.io/github/sponsors/mldxo)
-[![Github Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/mldxo)
-[![Buy me a coffee](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=buymeacoffee)](https://www.buymeacoffee.com/mldxo)
-
 ### :octocat: Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mldxo&show_icons=true&theme=transparent)

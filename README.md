@@ -2,7 +2,7 @@
 
 ![views](https://visitor-badge.laobi.icu/badge?page_id=mldxo.visitor-badge)
 
-Hello, nice to see you here! I'm Miłosz Maculewicz, dedicated Computer Science student with a strong foundation in structural and object oriented programming. Passionate about Debian-based systems and continuously exploring advancements in this area.
+Hello, nice to see you here! I'm Miłosz Maculewicz, dedicated Computer Science student with a strong foundation in structural and object oriented programming. Passionate about creating software from the ground up. Excited about Debian-based systems and continuously exploring advancements in this area.
 
 ### Technologies
 

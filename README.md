@@ -1,49 +1,28 @@
-# 🚀 Miłosz Maculewicz 
+# Miłosz Maculewicz 
 
-`Software Developer` `System Admin`
+![views](https://visitor-badge.laobi.icu/badge?page_id=mldxo.visitor-badge)
 
-Hello, nice to see you here! I'm Miłosz Maculewicz, third year Computer Science student from Warsaw making my way through tech adventure 🖥️
+Hello, nice to see you here! I'm Miłosz Maculewicz, dedicated Computer Science student with a strong foundation in structural and object oriented programming.
 
 ### 🧰 Technologies
 
-<p align="left">
-    <img width="30px" alt="C" style="padding-right:10px;" src="https://skillicons.dev/icons?i=c" />
-    <img width="30px" alt="C++" style="padding-right:10px;" src="https://skillicons.dev/icons?i=cpp" />
-    <img width="30px" alt="Python" style="padding-right:10px;" src="https://skillicons.dev/icons?i=python" />
-    <img width="30px" alt="Qt" style="padding-right:10px;" src="https://skillicons.dev/icons?i=qt" />
-    <img width="30px" alt="MySQL" style="padding-right:10px;" src="https://skillicons.dev/icons?i=mysql" />
-    <img width="30px" alt="PostgreSQL" style="padding-right:10px;" src="https://skillicons.dev/icons?i=postgres" />
-    <img width="30px" alt="R" style="padding-right:10px;" src="https://skillicons.dev/icons?i=r" />
-</p>
-<p align="left">
-    <img width="30px" alt="Git" style="padding-right:10px;" src="https://skillicons.dev/icons?i=git" />
-    <img width="30px" alt="Github" style="padding-right:10px;" src="https://skillicons.dev/icons?i=github" />
-    <img width="30px" alt="Github Actions" style="padding-right:10px;" src="https://skillicons.dev/icons?i=githubactions" />
-    <img width="30px" alt="Latex" style="padding-right:10px;" src="https://skillicons.dev/icons?i=latex" />
-    <img width="30px" alt="Markdown" style="padding-right:10px;" src="https://skillicons.dev/icons?i=md" />
-    <img width="30px" alt="Visual Studio" style="padding-right:10px;" src="https://skillicons.dev/icons?i=visualstudio" />
-    <img width="30px" alt="VS Code" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vscode" />
-</p>
-<p align="left">
-    <img width="30px" alt="Windows" style="padding-right:10px;" src="https://skillicons.dev/icons?i=windows" />
-    <img width="30px" alt="Debian" style="padding-right:10px;" src="https://skillicons.dev/icons?i=debian" />
-    <img width="30px" alt="Cloudflare" style="padding-right:10px;" src="https://skillicons.dev/icons?i=cloudflare" />
-    <img width="30px" alt="Nginx" style="padding-right:10px;" src="https://skillicons.dev/icons?i=nginx" />
-    <img width="30px" alt="Docker" style="padding-right:10px;" src="https://skillicons.dev/icons?i=docker" />
-    <img width="30px" alt="React" style="padding-right:10px;" src="https://skillicons.dev/icons?i=react" />
-    <img width="30px" alt="TailwindCSS" style="padding-right:10px;" src="https://skillicons.dev/icons?i=tailwind" />
-</p>
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mldxo&langs_count=10&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-navy?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-purple?style=for-the-badge)
+![LaTeX](https://img.shields.io/badge/LaTeX-darkgreen?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge)
 
 ### 📁 Projects
 
-Project I'm currently working on is [UAV Collision Avoidance](https://github.com/mldxo/uav-collision-avoidance), UAV flight simulator implementation with collision detection and avoidance based on geometric approach.
+Currently developing personal projects focused on [UAV collision avoidance](https://github.com/mldxo/uav-collision-avoidance), [secure chat app](https://github.com/mldxo/secure-chat), and RP Pico software like [WS2812B controller](https://github.com/mldxo/pico-led-controller), showcasing my commitment to innovative and practical solutions.
 
-Please check out my portfolio [https://mldxo.github.io/](https://mldxo.github.io/) to see the rest of my projects!
+For the rest of my creations visit [https://mldxo.github.io/](https://mldxo.github.io/).
 
 ### :octocat: Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mldxo&show_icons=true&theme=transparent)
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mldxo.visitor-badge)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mldxo&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mldxo&show_icons=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+</a>

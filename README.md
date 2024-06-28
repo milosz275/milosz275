@@ -2,7 +2,7 @@
 
 ![views](https://visitor-badge.laobi.icu/badge?page_id=mldxo.visitor-badge)
 
-Hello, nice to see you here! I'm Miłosz Maculewicz, dedicated Computer Science student with a strong foundation in structural and object oriented programming. Passionate about creating software from the ground up. Excited about Debian-based systems and continuously exploring advancements in this area.
+I'm Miłosz Maculewicz, dedicated Computer Science student with a strong foundation in structural and object oriented programming. Passionate about creating software from the ground up. Excited about Debian-based systems and continuously exploring advancements in this area.
 
 ### Technologies
 
@@ -14,9 +14,9 @@ Hello, nice to see you here! I'm Miłosz Maculewicz, dedicated Computer Science 
 
 ### Projects
 
-Currently developing personal projects focused on [UAV collision avoidance](https://github.com/mldxo/uav-collision-avoidance), [secure chat app](https://github.com/mldxo/secure-chat), and RP Pico software like [WS2812B controller](https://github.com/mldxo/pico-led-controller), showcasing my commitment to innovative and practical solutions.
+Currently developed personal projects of mine are [UAV collision avoidance](https://github.com/mldxo/uav-collision-avoidance), [Secure chat](https://github.com/mldxo/secure-chat), and embedded software - [RP Pico W WS2812B controller](https://github.com/mldxo/pico-led-controller).
 
-For the rest of my creations visit [https://mldxo.github.io/](https://mldxo.github.io/).
+Visit [https://mldxo.github.io/](https://mldxo.github.io/) for comprehensive showcase of my personal commitment.
 
 ### Stats
 

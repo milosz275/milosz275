@@ -14,7 +14,7 @@ I'm Miłosz Maculewicz, dedicated Computer Science student with a strong foundat
 
 ### Projects
 
-Currently working on the [Secure chat](https://github.com/mldxo/secure-chat) project concluding all my prior experience. Recently closed [UAV collision avoidance](https://github.com/mldxo/uav-collision-avoidance) Bachelor's thesis coding part. On a sidequest with embedded software i.e. [RP Pico W WS2812B controller](https://github.com/mldxo/pico-led-controller).
+Currently working on the [Secure chat](https://github.com/mldxo/secure-chat) project concluding all my prior experience. Recently closed [UAV collision avoidance](https://github.com/mldxo/uav-collision-avoidance) Bachelor's thesis coding part. Developing [RP Pico W WS2812B controller](https://github.com/mldxo/pico-led-controller).
 
 Visit [https://mldxo.github.io/](https://mldxo.github.io/) for comprehensive showcase of my personal commitment.
 

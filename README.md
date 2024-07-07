@@ -27,6 +27,8 @@ Visit [https://mldxo.github.io/](https://mldxo.github.io/) for comprehensive sho
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mldxo&show_icons=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+---
+
 <details>
 <summary>Streak</summary>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mldxo&theme=transparent" alt="GitHub Streak" /></a>

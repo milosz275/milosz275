@@ -9,6 +9,7 @@ I'm Miłosz Maculewicz, dedicated Computer Science student with a strong foundat
 ![C](https://img.shields.io/badge/C-grey?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-navy?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-purple?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
 ![LaTeX](https://img.shields.io/badge/LaTeX-darkgreen?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge)
 

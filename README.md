@@ -32,6 +32,6 @@ Visit [https://mldxo.github.io/](https://mldxo.github.io/) for comprehensive sho
 
 <details>
 <summary>Streak</summary>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mldxo&theme=transparent" alt="GitHub Streak" /></a>
+<img src="https://github-readme-streak-stats-iota-eosin.vercel.app?user=mldxo&theme=transparent" alt="GitHub Streak" />
 </details>
 

@@ -32,7 +32,9 @@ Visit [https://mldxo.github.io/](https://mldxo.github.io/) for comprehensive sho
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mldxo&show_icons=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mldxo&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+---
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=mldxo&theme=darkhub&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -41,6 +43,3 @@ Visit [https://mldxo.github.io/](https://mldxo.github.io/) for comprehensive sho
 <img src="https://github-readme-streak-stats-iota-eosin.vercel.app?user=mldxo&theme=transparent" alt="GitHub Streak" />
 </details>
 
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>

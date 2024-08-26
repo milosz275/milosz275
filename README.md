@@ -1,8 +1,12 @@
-# Miłosz Maculewicz 
+# Miłosz Maculewicz
+
+`creative craftsman`
 
 ![views](https://visitor-badge.laobi.icu/badge?page_id=mldxo.visitor-badge)
 
-I'm Miłosz Maculewicz, dedicated Computer Science student with a strong foundation in structural and object oriented programming. Passionate about creating software from the ground up. Excited about Debian-based systems and continuously exploring advancements in this area.
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome!+I'm+Miłosz+Maculewicz.; Dedicated+Computer+Science+student+with+a+strong+foundation+in+structural+and+object+oriented+programming.; Passionate+about+creating+software+from+the+ground+up.; Excited+about+Debian-based+systems+and+continuously+exploring+advancements+in+this+area.; Please feel free to check out my GitHub!&width=1500&height=60&duration=3000&pause=1000" alt="Description">
+</p>
 
 ### Technologies
 
@@ -28,6 +32,8 @@ Visit [https://mldxo.github.io/](https://mldxo.github.io/) for comprehensive sho
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mldxo&show_icons=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mldxo&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 <details>
@@ -35,3 +41,6 @@ Visit [https://mldxo.github.io/](https://mldxo.github.io/) for comprehensive sho
 <img src="https://github-readme-streak-stats-iota-eosin.vercel.app?user=mldxo&theme=transparent" alt="GitHub Streak" />
 </details>
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>

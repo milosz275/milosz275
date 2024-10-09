@@ -12,12 +12,11 @@ I'm a fourth-year Computer Science student, constantly striving to develop my sk
 ![C++](https://img.shields.io/badge/C++-navy?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-purple?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
-![LaTeX](https://img.shields.io/badge/LaTeX-darkgreen?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge)
 
 ### Projects
 
-Currently working on the [Secure chat](https://github.com/milosz275/secure-chat) and [Secure chat](https://github.com/milosz275/blog-app) projects concluding all my prior experience, . Recently closed [UAV collision avoidance](https://github.com/milosz275/uav-collision-avoidance) Bachelor's thesis coding part. Developing [RP Pico W WS2812B controller](https://github.com/milosz275/pico-led-controller).
+Currently working on the [Secure chat](https://github.com/milosz275/secure-chat) and [Blog App](https://github.com/milosz275/blog-app) projects concluding all my prior experience, . Recently closed [UAV collision avoidance](https://github.com/milosz275/uav-collision-avoidance) Bachelor's thesis coding part. Developing [RP Pico W WS2812B controller](https://github.com/milosz275/pico-led-controller).
 
 Visit [https://milosz275.github.io/](https://milosz275.github.io/) for comprehensive showcase of my personal commitment.
 

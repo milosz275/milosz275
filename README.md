@@ -1,7 +1,5 @@
 # Miłosz Maculewicz
 
-`Software Developer`
-
 ### About me
 
 I'm a fourth-year Computer Science student, constantly striving to develop my skills and forge my own path in the tech world. Always seeking new challenges and opportunities to grow.
@@ -16,7 +14,7 @@ I'm a fourth-year Computer Science student, constantly striving to develop my sk
 
 ### Projects
 
-Currently working on the [Secure chat](https://github.com/milosz275/secure-chat) and [Blog App](https://github.com/milosz275/blog-app) projects concluding all my prior experience, . Recently closed [UAV collision avoidance](https://github.com/milosz275/uav-collision-avoidance) Bachelor's thesis coding part. Developing [RP Pico W WS2812B controller](https://github.com/milosz275/pico-led-controller).
+Currently working on the [Secure chat](https://github.com/milosz275/secure-chat) and [Blog App](https://github.com/milosz275/blog-app) projects concluding all my prior experience. Recently closed [UAV collision avoidance](https://github.com/milosz275/uav-collision-avoidance) Bachelor's thesis coding part.
 
 Visit [https://milosz275.github.io/](https://milosz275.github.io/) for comprehensive showcase of my personal commitment.
 

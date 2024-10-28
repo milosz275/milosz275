@@ -37,4 +37,3 @@ Visit [https://milosz275.github.io/](https://milosz275.github.io/) for comprehen
 <summary>Streak</summary>
 <img src="https://github-readme-streak-stats-iota-eosin.vercel.app?user=milosz275&theme=transparent" alt="GitHub Streak" />
 </details>
-

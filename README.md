@@ -1,10 +1,10 @@
 # Miłosz Maculewicz
 
-### About me
+## About me
 
 I'm a fourth-year Computer Science student, constantly striving to develop my skills and forge my own path in the tech world. Always seeking new challenges and opportunities to grow.
 
-### Technologies
+## Technologies
 
 ![C](https://img.shields.io/badge/C-grey?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-navy?style=for-the-badge)
@@ -12,13 +12,13 @@ I'm a fourth-year Computer Science student, constantly striving to develop my sk
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge)
 
-### Projects
+## Projects
 
 Currently working on the [Secure chat](https://github.com/milosz275/secure-chat) and [Blog App](https://github.com/milosz275/blog-app) projects concluding all my prior experience. Recently closed [UAV collision avoidance](https://github.com/milosz275/uav-collision-avoidance) Bachelor's thesis coding part.
 
 Visit [https://milosz275.github.io/](https://milosz275.github.io/) for comprehensive showcase of my personal commitment.
 
-### Stats
+## Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=milosz275&show_icons=true&theme=transparent" />

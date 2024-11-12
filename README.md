@@ -14,7 +14,7 @@ I'm a fourth-year Computer Science student, constantly striving to develop my sk
 
 ## Projects
 
-Currently working on the [Secure chat](https://github.com/milosz275/secure-chat) and [Blog App](https://github.com/milosz275/blog-app) projects concluding all my prior experience. Recently closed [UAV collision avoidance](https://github.com/milosz275/uav-collision-avoidance) Bachelor's thesis coding part.
+Currently working on the [BitLab](https://github.com/milosz275/bitlab) and [Blog App](https://github.com/milosz275/blog-app) projects concluding all my prior experience. Recently closed [UAV collision avoidance](https://github.com/milosz275/uav-collision-avoidance) Bachelor's thesis coding part.
 
 Visit [https://milosz275.github.io/](https://milosz275.github.io/) for comprehensive showcase of my personal commitment.
 

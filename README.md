@@ -6,9 +6,9 @@ Hi, I'm Software Engineer based in Poland.
 
 ## Technologies
 
-![C](https://img.shields.io/badge/C-darkgreen?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-navy?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-purple?style=for-the-badge)
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-darkviolet?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
 
 ## Projects
 

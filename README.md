@@ -12,4 +12,4 @@ Hi, I'm Software Engineer based in Poland.
 
 ## Projects
 
-Visit [my portfolio](https://milosz275.github.io/) for comprehensive showcase of my projects.
+Visit [portfolio](https://milosz275.github.io/) for comprehensive showcase of my projects.
